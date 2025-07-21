@@ -5,10 +5,10 @@ A beautiful, modern, and fully responsive scientific calculator built with HTML,
 ![screenshot](screenshot.png)
 
 ## Live Demo
-[View on GitHub Pages](https://shahriartbc.github.io/Ai_Generated_Calculator/)
+[View on GitHub Pages](https://shariar-ahamed.github.io/Ai_Generated_Calculator/)
 
 ## Repository
-[https://github.com/ShahriarTbc/Ai_Generated_Calculator](https://github.com/ShahriarTbc/Ai_Generated_Calculator)
+[https://github.com/shariar-ahamed/Ai_Generated_Calculator](https://github.com/shariar-ahamed/Ai_Generated_Calculator)
 
 ## Features
 - Basic arithmetic operations (+, −, ×, ÷, %)
@@ -20,7 +20,7 @@ A beautiful, modern, and fully responsive scientific calculator built with HTML,
 ## Usage
 1. Clone or download this repository:
    ```sh
-   git clone https://github.com/ShahriarTbc/Ai_Generated_Calculator.git
+   git clone https://github.com/shariar-ahamed/Ai_Generated_Calculator.git
    ```
 2. Open `index.html` in your browser.
 3. Enjoy using the calculator!
